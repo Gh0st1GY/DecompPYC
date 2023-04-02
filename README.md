@@ -46,3 +46,5 @@ le résultat à l'écran.
 ### Développeurs
 
  - Gh0st1GY 
+
+### Tout droits réservés
